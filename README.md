@@ -1,4 +1,4 @@
-# AdaSpeech 2: Adaptive Text to Speech with Untranscribed Data
+# AdaSpeech 2: Adaptive Text to Speech with Untranscribed Data [WIP]
 Unofficial Pytorch implementation of [AdaSpeech 2](https://arxiv.org/abs/2104.09715).
 
 
